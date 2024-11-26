@@ -29,13 +29,6 @@ Here are some of my favorite projects that combine **cybersecurity** with **crea
 
 ---
 
-## 🌸 Fun Facts About Me  
-- 🍓 I carry **pink tools** for my hacking setups because *why not be stylish*? 🎀  
-- 🎨 I also design **cybersecurity-themed stickers**—let me know if you want one!  
-- 🐾 My motto: *"Secure your data, secure your smile!"*  
-
----
-
 ## 🏷️ Badges  
 
 ![CSCU](https://img.shields.io/badge/CSCU-Certified%20Secure%20Computer%20User-pink?style=flat-square)  
