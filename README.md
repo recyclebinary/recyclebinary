@@ -38,7 +38,7 @@ Here are some of my favorite projects that combine **cybersecurity** with **crea
 
 ## 🏷️ Badges  
 
-![CSCU](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-pink?style=flat-square)  
+![CSCU](https://img.shields.io/badge/CSCU-Certified%20Secure%20Computer%20User-pink?style=flat-square)  
 
 ---
 
