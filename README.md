@@ -33,8 +33,4 @@
 - 🌷 [LinkedIn](https://linkedin.com/in/yourusername)  
 
 ---
-
-## ✨ Powered by Animations and Cuteness  
-![Cybersecurity Cat](https://c.tenor.com/4zjzoqEPdJkAAAAC/cute-hacker.gif)  
-
 _🌸 Thanks for visiting my profile! Let's make cybersecurity cute and accessible for everyone. 💖_  
