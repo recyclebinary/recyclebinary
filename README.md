@@ -21,14 +21,6 @@
 
 ---
 
-## 🎯 My GitHub Projects  
-Here are some of my favorite projects that combine **cybersecurity** with **creativity**:  
-- 🕵️‍♀️ [**Threat Hunter Toolkit**](https://github.com/yourusername/threat-hunter-toolkit)  
-- 🐾 [**Cyber Pet: A Fun Way to Learn Cybersecurity**](https://github.com/yourusername/cyber-pet)  
-- 🔍 [**Phishing Detector API**](https://github.com/yourusername/phishing-detector-api)  
-
----
-
 ## 🏷️ Badges  
 
 ![CSCU](https://img.shields.io/badge/CSCU-Certified%20Secure%20Computer%20User-pink?style=flat-square)  
