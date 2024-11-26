@@ -1,49 +1,36 @@
-# 🌸 Hello, World! I'm Anissa 🌸
-
-![Cybersecurity Banner](https://c.tenor.com/W7HK4-Z_EHUAAAAC/cute-anime-hack.gif)
-
-## 👩‍💻 About Me  
-- 🎀 **Cybersecurity Professional** | Protecting the digital world, one byte at a time 🛡️✨  
-- 💕 Passionate about **ethical hacking**, **threat analysis**, and **digital forensics**.  
-- 🌈 I adore blending tech with aesthetics—why not make security *cute*? 🌸  
-- ✨ When I'm not busy securing systems, I enjoy crafting, writing, and baking pastel-colored cookies 🍪💖.
+<h1 align="center">✨ Hello, World! I'm [Your Name] ✨</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">  
+  Cybersecurity Professional | Ethical Hacker | Red Team Specialist  
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+</p>
 
 ---
 
-## 💼 My Skills  
-### Cybersecurity Tools  
-- 🔒 **Wireshark** | 🛡️ **Burp Suite** | 🌐 **Metasploit** | 🧰 **Nmap**  
-### Programming Languages  
-- 🐍 Python | 🦀 Rust | 🖥️ Bash  
-### Others  
-- ☁️ Cloud Security (AWS, GCP)  
-- 🛠️ Git, GitHub, CI/CD Pipelines  
+🌸 **About Me** 🌸  
+```diff
+- Ethical Hacker 💻 
+- Lover of Pink Aesthetics 🎀 
+- Cybersecurity Enthusiast 🔐
+- Coffee Addict ☕ 
+- 💡 "Hack with kindness and protect with passion!"
+✨ What I Do ✨
 
----
+🔴 Red Team engagements to simulate real-world attacks.
+🛡️ Strengthening security defenses through penetration testing.
+✍️ Writing cute and informative blogs about cybersecurity.
+🌱 Learning and sharing ethical hacking tips on GitHub.
+🌟 Tools & Skills 🌟
 
-## 🎯 My GitHub Projects  
-Check out my projects that combine **cybersecurity** with **user-friendly designs**:  
-- 🕵️‍♀️ [**Threat Hunter Toolkit**](https://github.com/yourusername/threat-hunter-toolkit)  
-- 🐾 [**Cyber Pet: A Fun Way to Learn Cybersecurity**](https://github.com/yourusername/cyber-pet)  
-- 🔍 [**Phishing Detector API**](https://github.com/yourusername/phishing-detector-api)
+<p align="center"> <img src="https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=flat-square&logo=burp-suite&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-blue?style=flat-square&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-brightgreen?style=flat-square&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-cute-purple?style=flat-square&logo=github&logoColor=white" /> </p>
+🎀 Projects 🎀
 
----
+🌸 Pretty Secure - A feminine-themed web security checklist!
+🔴 Red Team Playground - Simulated attack scenarios for beginners.
+✨ Glitter Hash Generator - A cute MD5/SHA hash generator.
+🌼 Let's Connect! 🌼
 
-## 🌸 Fun Facts About Me  
-- 🍓 I carry **pink tools** for my hacking setups because *why not be stylish*? 🎀  
-- 🎨 I also design **cybersecurity-themed stickers**—let me know if you want one!  
-- 🐾 My motto: *"Secure your data, secure your smile!"*
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-Say%20Hi!-blue?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p>
+✨ Fun Fact: "Hacking isn't about breaking; it's about understanding."
 
----
-
-## 🌟 Let's Connect!  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-- 💌 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 🌷 [LinkedIn](https://linkedin.com/in/yourusername)
-
----
-
-## ✨ Powered by Animations and Cuteness  
-![Cybersecurity Cat](https://c.tenor.com/4zjzoqEPdJkAAAAC/cute-hacker.gif)
-
-_🌸 Thanks for visiting my profile! Let's make cybersecurity cute and accessible for everyone. 💖_
+<p align="center"> <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"> </p> ```
